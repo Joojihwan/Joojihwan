@@ -3,9 +3,6 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=poiu090)](https://solved.ac/poiu090)
 
-## [블로그](https://joojihwan.github.io)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoojihwan)](https://hits.seeyoufarm.com) 
 
 
 
